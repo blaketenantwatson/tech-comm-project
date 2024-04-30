@@ -1,8 +1,8 @@
 {
-  "name": "lmc-project",
+  "name": "tech-comm-project",
   "version": "0.1.0",
-  "homepage": "https://github.gatech.edu/pages/skamath37/lmc-project/",
-  "private": true,
+  "homepage": "https://blaketenantwatson.github.io/tech-comm-project/",
+  "private": false,
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.5.3",
     "@testing-library/jest-dom": "^5.17.0",
