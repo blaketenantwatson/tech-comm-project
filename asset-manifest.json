@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech-comm-project/static/css/main.61d214e9.css",
+    "main.js": "/tech-comm-project/static/js/main.70cd2a62.js",
+    "static/js/453.32461138.chunk.js": "/tech-comm-project/static/js/453.32461138.chunk.js",
+    "index.html": "/tech-comm-project/index.html",
+    "static/media/speech.svg": "/tech-comm-project/static/media/speech.8631a1e1b61230d4af0484d3a4cf05cb.svg",
+    "main.61d214e9.css.map": "/tech-comm-project/static/css/main.61d214e9.css.map",
+    "main.70cd2a62.js.map": "/tech-comm-project/static/js/main.70cd2a62.js.map",
+    "453.32461138.chunk.js.map": "/tech-comm-project/static/js/453.32461138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d214e9.css",
+    "static/js/main.70cd2a62.js"
+  ]
+}
